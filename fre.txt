@@ -1,0 +1,12 @@
+#include<iostream.h>
+#include<conio.h>
+void main()
+int no
+printf("enter the number");
+scanf("%d",odd or even)';
+if(i<=2)
+printf("the number is odd"..);
+else
+if(i>=2)
+printf("the number is even"..);
+}
